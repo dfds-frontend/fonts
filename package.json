@@ -1,10 +1,10 @@
 {
-	"name": "@kunukn/dfds-fonts",
-	"version": "0.0.10",
-	"description": "",
+	"name": "@dfds-frontend/fonts",
+	"version": "0.0.1",
+	"description": "dfds fonts",
 	"main": "index.js",
 	"files": [
-		"fonts"
+		"main"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -12,13 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kunukn/dfds-fonts.git"
+		"url": "git+https://github.com/dfds-frontend/fonts.git"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"font"
+	],
+	"author": "DFDS",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/kunukn/dfds-fonts/issues"
+		"url": "https://github.com/dfds-frontend/fonts/issues"
 	},
-	"homepage": "https://github.com/kunukn/dfds-fonts#readme"
+	"homepage": "https://github.com/dfds-frontend/fonts#readme"
 }
