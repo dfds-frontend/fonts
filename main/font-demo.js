@@ -16,4 +16,4 @@
     head.appendChild(link);
     head.appendChild(style);
   }
-})("dynamically-loaded-main-dfds-font", "https://unpkg.com/@kunukn/dfds-fonts/fonts/main/font.css");
+})("dynamically-loaded-main-dfds-font", "https://unpkg.com/@dfds-frontend/fonts/main/font.css");

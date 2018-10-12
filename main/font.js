@@ -9,4 +9,4 @@
     link.media = "all";
     head.appendChild(link);
   }
-})("dynamically-loaded-main-dfds-font", "https://unpkg.com/@kunukn/dfds-fonts/fonts/main/font.css");
+})("dynamically-loaded-main-dfds-font", "https://unpkg.com/@dfds-frontend/fonts/main/font.css");

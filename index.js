@@ -1,7 +1,7 @@
 function addCssLink(props) {
     var p = props || {};
     var id = p.cssId || "dynamically-loaded-dfds-font";
-    var href = p.href || "https://unpkg.com/@kunukn/dfds-fonts/fonts/main/font.css";
+    var href = p.href || "https://unpkg.com/@dfds-frontend/fonts/main/font.css";
 
     if (!document.getElementById(id)) {
 				var head = document.head;

@@ -65,9 +65,9 @@ load the font by inluding this in html
 
 ## demo
 
--   https://codepen.io/kunukn/pen/a9b31a0efb571cc6eadfa79d15a02501
--   https://codesandbox.io/s/4x9496jqm4
--   https://codepen.io/kunukn/pen/6f88297701bf62e8a4118015e02a507b?editors=0010
+-   https://codepen.io/kunukn/pen/63b15fbc49c236e54d2981ddbf3daf5b
+-   https://codesandbox.io/s/p7oqjovn8m
+-   https://codepen.io/kunukn/pen/f8e01e22b7a7c080fca0b31d5acfb1b6?editors=0010
 
 ## more
 
