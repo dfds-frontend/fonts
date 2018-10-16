@@ -69,6 +69,26 @@ load the font by inluding this in html
 -   https://codesandbox.io/s/p7oqjovn8m
 -   https://codepen.io/kunukn/pen/f8e01e22b7a7c080fca0b31d5acfb1b6?editors=0010
 
+## preload fonts
+
+```html
+ <link rel="preload"
+       href="https://unpkg.com/@dfds-frontend/fonts/main/DFDS-Regular.woff2"
+       as="font" type="font/woff2" crossorigin>
+
+ <link rel="preload"
+       href="https://unpkg.com/@dfds-frontend/fonts/main/DFDS-Bold.woff2"
+       as="font" type="font/woff2" crossorigin>
+
+<link rel="preload"
+       href="https://unpkg.com/@dfds-frontend/fonts/main/DFDS-Light.woff2"
+       as="font" type="font/woff2" crossorigin>
+
+<link rel="preload"
+       href="https://unpkg.com/@dfds-frontend/fonts/main/DFDS-Italic.woff2"
+       as="font" type="font/woff2" crossorigin>
+```
+
 ## more
 
 To see all the available CDN files go to
