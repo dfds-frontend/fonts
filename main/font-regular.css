@@ -3,5 +3,5 @@
   font-family: DFDS;
   src: url('./DFDS-Regular.woff2') format('woff2'),
     url('./DFDS-Regular.woff') format('woff');
-  font-weight: 400;
+  font-weight: normal;
 }
