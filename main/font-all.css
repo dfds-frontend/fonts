@@ -22,7 +22,7 @@
   src: url('./DFDS-Light.woff2') format('woff2'),
     url('./DFDS-Light.woff') format('woff'), url('./DFDS-Light.eot'),
     url('./DFDS-Light.ttf') format('truetype');
-  font-weight: 100;
+  font-weight: 300;
 }
 
 @font-face {

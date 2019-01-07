@@ -1,26 +1,27 @@
 {
-	"name": "@dfds-frontend/fonts",
-	"version": "0.0.2",
-	"description": "dfds fonts",
-	"main": "index.js",
-	"files": [
-		"main"
-	],
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "browser-sync start -s -f='*.*'"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/dfds-frontend/fonts.git"
-	},
-	"keywords": [
-		"font"
-	],
-	"author": "DFDS",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/dfds-frontend/fonts/issues"
-	},
-	"homepage": "https://github.com/dfds-frontend/fonts#readme"
+  "name": "@dfds-frontend/fonts",
+  "version": "0.0.3",
+  "description": "DFDS fonts",
+  "main": "index.js",
+  "files": [
+    "main"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start -s -f='*.*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfds-frontend/fonts.git"
+  },
+  "keywords": [
+    "font",
+    "DFDS"
+  ],
+  "author": "DFDS",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/dfds-frontend/fonts/issues"
+  },
+  "homepage": "https://github.com/dfds-frontend/fonts#readme"
 }

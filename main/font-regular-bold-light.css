@@ -19,5 +19,5 @@
   font-family: DFDS;
   src: url('./DFDS-Light.woff2') format('woff2'),
     url('./DFDS-Light.woff') format('woff');
-  font-weight: 100;
+  font-weight: 300;
 }

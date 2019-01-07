@@ -1,5 +1,7 @@
 # DFDS fonts
 
+Unofficial library for DFDS
+
 ## main font from CDN
 
 load the font by inluding this in html
@@ -34,8 +36,8 @@ body {
 .font-bold {
 	font-weight: 700;
 }
-.font-thin {
-	font-weight: 100;
+.font-light {
+	font-weight: 300;
 }
 .font-italic {
 	font-style: italic;
@@ -47,7 +49,7 @@ use the font
 ```html
 <p>this is a normal font</p>
 <p class="font-bold">this is a bold font</p>
-<p class="font-thin">this is a thin font</p>
+<p class="font-light">this is a light font</p>
 <p class="font-italic">this is a italic style</p>
 ```
 
