@@ -8,7 +8,7 @@ load the font by inluding this in html
 
 ```html
  <link rel="stylesheet"
-       href="https://unpkg.com/@dfds-frontend/fonts/main/font.css">
+   href="https://unpkg.com/@dfds-frontend/fonts/main/font.css">
 ```
 
 or import it from css
@@ -31,16 +31,16 @@ apply the font in css
 
 ```css
 body {
-	font-family: DFDS, sans-serif;
+  font-family: DFDS, sans-serif;
 }
 .font-bold {
-	font-weight: 700;
+  font-weight: bold;
 }
 .font-light {
-	font-weight: 300;
+  font-weight: 300;
 }
 .font-italic {
-	font-style: italic;
+  font-style: italic;
 }
 ```
 
