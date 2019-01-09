@@ -2,6 +2,11 @@
 
 Unofficial library for DFDS
 
+There is one font family with four variants: normal, bold, light and cursive.
+The font names follows the common weight naming convention
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight#Common_weight_name_mapping
+
 ## main font from CDN
 
 load the font by inluding this in html
