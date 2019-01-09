@@ -1,6 +1,6 @@
 {
   "name": "@dfds-frontend/fonts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "DFDS fonts",
   "main": "index.js",
   "files": [
