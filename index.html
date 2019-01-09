@@ -6,16 +6,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>font</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" media="screen" href="./fonts/main/font.css" />
 
-  <link rel="preload" href="./fonts/main/DFDS-Regular.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="./fonts/main/DFDS-Bold.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="./fonts/main/DFDS-Light.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="./fonts/main/DFDS-Italic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./main/DFDS-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./main/DFDS-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./main/DFDS-Light.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./main/DFDS-Italic.woff2" as="font" type="font/woff2" crossorigin>
+
+  <link rel="stylesheet" href="./main/font.css" />
 
   <style>
     body {
       font: 60px/1 DFDS;
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
     }
 
     p {
@@ -23,7 +28,7 @@
     }
 
     .font-bold {
-      font-weight: 700;
+      font-weight: bold;
     }
 
     .font-thin {
@@ -37,10 +42,12 @@
 </head>
 
 <body>
-  <p class="font-bold">hello world</p>
-  <p>hello world</p>
-  <p class="font-thin">hello world</p>
-  <p class="font-italic">hello world</p>
+  <div>
+    <p class="font-bold">hello world</p>
+    <p>hello world</p>
+    <p class="font-thin">hello world</p>
+    <p class="font-italic">hello world</p>
+  </div>
 </body>
 
 </html>
